@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% load bootstrap4 %}
+
+{% block content %}
+<h3>분류할 쓰레기 이미지를 선택해주세요</h3>
+<form action="" method="POST" enctype="multipart/form-data">
+    {% csrf_token %}
+    {% bootstrap_form form %}
+    <button class='btn btn-primary'>저장</button>
+</form>
+{% endblock content %}

@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% block content %}
+<h3>분류 결과</h3>
+
+<div class="card">
+  <h5 class="card-header">
+    {{ result }}
+  </h5>
+  <div class="card-body">
+    <img src="{{ url }}" class="card-img-top">
+    <p></p>
+    <button type="button" class="btn btn-primary"> 정답 </button>
+    <button type="button" class="btn btn-danger"> 오답 </button>
+    <a href="{% url 'firstapp:upload' %}"><button type="button" class="btn btn-light" > 처음으로 </button></a>
+    
+  </div>
+</div>
+</div>
+{% endblock %}
