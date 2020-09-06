@@ -1,1 +1,1 @@
-web: gunicorn trashorwhat.wsgi --log-file -
+web: gunicorn trashorwhat.wsgi
