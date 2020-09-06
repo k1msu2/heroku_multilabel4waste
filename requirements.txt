@@ -30,7 +30,7 @@ django-bootstrap4==2.1.1
 django-heroku==0.3.1
 django-imagekit==4.0.2
 entrypoints==0.3
-fastai @ git+https://github.com/fastai/fastai.git@54a9e3cf4fd0fa11fc2453a5389cc9263f6f0d77
+fastai
 fastprogress==0.2.4
 future==0.18.2
 gunicorn==20.0.4
