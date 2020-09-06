@@ -112,9 +112,9 @@ terminado==0.8.3
 testpath==0.4.4
 thinc==7.4.1
 toml==0.10.1
-torch==1.5.1+cpu
-torchfile==0.1.0
-torchvision==0.6.1+cpu
+torch
+torchfile
+torchvision
 tornado==6.0.4
 tqdm==4.48.0
 traitlets==4.3.3
