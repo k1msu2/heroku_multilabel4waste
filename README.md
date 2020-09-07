@@ -13,7 +13,7 @@
 - fastai github에 v1을 다운로드 받아서 설치해야한다. 
 - 컴파일은 정상적으로 되나 predict함수 실행시, interpolate() got an unexpected keyword argument 'recompute_scale_factor'에러 발생했다
 - IITP AI Challenge에서 모델을 제출할때, nsml 플랫폼에서 같은 에러(unexpected keyword argument)가 발생했었다.
-- 같은 팀원(@soykim-snail)께서 매개변수를 지워버렸더니 정상적으로 동작했었다.
+- 같은 팀원(@soykim-snail)께서 오픈라이브러리(매개변수삭제)를 수정하여 정상적으로 동작했었다.
 - heroku에서는 자동으로 디펜던시를 설치하므로, fastai version1을 fork하여 해당 라이브러리를 수정하여 문제를 해결하였다.
 
 ```
