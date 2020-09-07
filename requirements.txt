@@ -6,7 +6,5 @@ django-imagekit==4.0.2
 fastai
 gunicorn==20.0.4
 pickleshare==0.7.5
-torch
-torchfile
-torchvision
+torch==1.6.0+cpu torchvision==0.7.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
 whitenoise==5.1.0
