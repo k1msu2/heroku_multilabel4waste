@@ -1,7 +1,6 @@
 Django==3.0.7
 django-appconf==1.0.4
 django-bootstrap4==2.1.1
-django-heroku==0.3.1
 django-imagekit==4.0.2
 fastai
 gunicorn==20.0.4
