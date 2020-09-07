@@ -3,7 +3,7 @@ django-appconf==1.0.4
 django-heroku==0.3.1
 django-bootstrap4==2.1.1
 django-imagekit==4.0.2
-https://github.com/fastai/fastai.git@54a9e3cf4fd0fa11fc2453a5389cc9263f6f0d77
+https://github.com/fastai/fastai1.git
 gunicorn==20.0.4
 pickleshare==0.7.5
 whitenoise==5.1.0
