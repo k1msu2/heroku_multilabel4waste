@@ -5,7 +5,6 @@ from django.conf import settings
 import os
 from .forms import PostForm
 from .models import Post
-import torch
 
 
 #defaults.device = torch.device('cpu')
