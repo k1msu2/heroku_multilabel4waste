@@ -7,7 +7,7 @@ from .forms import PostForm
 from .models import Post
 
 
-#defaults.device = torch.device('cpu')
+defaults.device = torch.device('cpu')
 #pkl_path = Path("C:\\Users\\KIMSUI\Documents\\17_ai_project\\export-model-3")
 pkl_path = os.path.join(settings.MEDIA_ROOT, "pkl")
 learn = load_learner(pkl_path)
