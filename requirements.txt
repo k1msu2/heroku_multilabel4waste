@@ -96,9 +96,6 @@ pyrsistent==0.16.0
 python-csv==0.0.11
 python-dateutil
 python-decouple
-pytz
-pywin32
-pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==19.0.1
 Quandl==3.5.2
