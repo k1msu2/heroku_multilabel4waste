@@ -26,3 +26,6 @@ torchvision==0.5.0+cpu
 git+git://github.com/k1msu2/fastai1.git
 ...
 ```
+# 추가 개발
+- 정답/오답 기능을 추가
+- 추후에 모델 데이터 학습용으로 사용할 데이터 축척
