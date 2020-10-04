@@ -1,5 +1,5 @@
 > # AI 알고리즘을 활용한 쓰레기 멀티라벨링 프로젝트 
-- IITP AI Challenge에 제출했던 모델을 활용(https://github.com/k1msu2/iitp-ai-challenge](https://github.com/k1msu2/iitp-ai-challenge))
+- IITP AI Challenge에 제출했던 모델을 활용([https://github.com/k1msu2/iitp-ai-challenge](https://github.com/k1msu2/iitp-ai-challenge))
 - 배포싸이트 https://multilabel4waste.herokuapp.com/firstapp/upload/
 >> 분류 결과
 <img src="https://github.com/k1msu2/img4md/blob/master/multilabel6.JPG?raw=true" width=60%>
