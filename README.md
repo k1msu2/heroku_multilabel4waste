@@ -2,7 +2,6 @@
 - IITP AI Challenge에 제출했던 모델을 활용([챌린지 후기보기](https://github.com/k1msu2/iitp-ai-challenge))
 - 배포싸이트 https://multilabel4waste.herokuapp.com/firstapp/upload/
 >> 분류 결과
-<img src="https://github.com/k1msu2/img4md/blob/master/multilabel1.JPG?raw=true" width=60%>
 <img src="https://github.com/k1msu2/img4md/blob/master/multilabel6.JPG?raw=true" width=60%>
 <img src="https://github.com/k1msu2/img4md/blob/master/multilabel5.JPG?raw=true" width=60%>
 <img src="https://github.com/k1msu2/img4md/blob/master/multilabel4.JPG?raw=true" width=60%>
