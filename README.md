@@ -2,7 +2,12 @@
 - IITP AI Challenge에 제출했던 모델을 활용
 - https://multilabel4waste.herokuapp.com/firstapp/upload/
 
-
+### 사용한 기술 스택
+- Django
+- Python
+- pgsql
+- pytorch(fastai)
+ 
 # heroku 배포시 주의사항
 ### slug size
 - heroku는 slug size를 500M이하로 제한하고 있어서 torch/torchvision 을 cpu 용으로 설치를 해야한다. 
