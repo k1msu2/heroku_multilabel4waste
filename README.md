@@ -1,5 +1,5 @@
 # AI 알고리즘을 활용한 쓰레기 멀티라벨링 프로젝트 
-- IITP AI Challenge에 제출했던 모델을 활용
+- IITP AI Challenge에 제출했던 모델을 활용([챌린지 후기보기])
 - https://multilabel4waste.herokuapp.com/firstapp/upload/
 
 ### 사용한 기술 스택
